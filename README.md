@@ -24,3 +24,4 @@ Payment Card Industry (PCI) Data Security Standard,第三方支付行业(支付�
 - [AES  CBC ECB](https://www.cnblogs.com/starwolf/p/3365834.html)
 - [RSA ECDHA](https://imququ.com/post/ecc-certificate.html)
 - [SSL svc_securityciphers](https://www.ibm.com/support/knowledgecenter/zh/ST3FR7_7.6.0/com.ibm.storwize.v7000.760.doc/svc_securityciphers.html)
+- [加密算法比较](https://www.lefer.cn/posts/59396/)
